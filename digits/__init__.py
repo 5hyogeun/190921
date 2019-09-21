@@ -4,6 +4,7 @@ if __name__ == '__main__':
         print('0 EXIT')
         print('1 손글씨 인식')
         print('2 손글씨인식 머신 러닝')
+        print('3 손글씨인식 테스트')
         return input('CHOOSE ONE\n')
     while 1:
         menu = print_menu()
@@ -18,6 +19,12 @@ if __name__ == '__main__':
         elif menu == '2':
             m = HandWritting()
             m.learning()
+            break
+        elif menu == '3':
+            m = HandWritting()
+            fname = './data/my2.png' ###########################--숫자 이미지 설정--################################
+            print('테스트 ')
+            print(m.test(fname))
             break
         """
         elif menu == '':
