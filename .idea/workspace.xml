@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c1d5cb-7250-4219-b1ed-32b1ead2e7ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digits/data/my2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digits/data/my4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digits/data/my9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm/ai_trader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digits/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/digits/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digits/hand_writting.py" beforeDir="false" afterPath="$PROJECT_DIR$/digits/hand_writting.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
